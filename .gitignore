@@ -1,0 +1,22 @@
+# Data
+data/
+*.csv
+*.parquet
+
+# Secrets / environment variables
+.env
+
+# Python environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
